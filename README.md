@@ -46,7 +46,7 @@ The `entrypoint.sh` script is executed when starting the Airflow webserver conta
 
 ## Getting Started
 
-You have to download jars: spark-cassandra-connection and spark-sql-kafka according to your versions of your platforms and put them into spark jars folder
+You have to download jars: spark-cassandra-connection and spark-sql-kafka according to versions of your platforms and put them into spark jars folder
 
 To run the project locally, make sure you have Docker and Docker Compose installed. Then, execute:
 
